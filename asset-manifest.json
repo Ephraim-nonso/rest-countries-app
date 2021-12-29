@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rest-countries-app/static/css/main.3b9ca064.chunk.css",
+    "main.js": "/rest-countries-app/static/js/main.fe55b117.chunk.js",
+    "main.js.map": "/rest-countries-app/static/js/main.fe55b117.chunk.js.map",
+    "runtime-main.js": "/rest-countries-app/static/js/runtime-main.491d099a.js",
+    "runtime-main.js.map": "/rest-countries-app/static/js/runtime-main.491d099a.js.map",
+    "static/js/2.f2290054.chunk.js": "/rest-countries-app/static/js/2.f2290054.chunk.js",
+    "static/js/2.f2290054.chunk.js.map": "/rest-countries-app/static/js/2.f2290054.chunk.js.map",
+    "static/js/3.63796bc5.chunk.js": "/rest-countries-app/static/js/3.63796bc5.chunk.js",
+    "static/js/3.63796bc5.chunk.js.map": "/rest-countries-app/static/js/3.63796bc5.chunk.js.map",
+    "index.html": "/rest-countries-app/index.html",
+    "static/css/main.3b9ca064.chunk.css.map": "/rest-countries-app/static/css/main.3b9ca064.chunk.css.map",
+    "static/js/2.f2290054.chunk.js.LICENSE.txt": "/rest-countries-app/static/js/2.f2290054.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.491d099a.js",
+    "static/js/2.f2290054.chunk.js",
+    "static/css/main.3b9ca064.chunk.css",
+    "static/js/main.fe55b117.chunk.js"
+  ]
+}
